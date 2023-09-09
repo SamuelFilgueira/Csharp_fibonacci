@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\bin\Debug\net7.0\Aula30.exe
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\bin\Debug\net7.0\Aula30.deps.json
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\bin\Debug\net7.0\Aula30.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\bin\Debug\net7.0\Aula30.dll
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\bin\Debug\net7.0\Aula30.pdb
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\obj\Debug\net7.0\Aula30.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\obj\Debug\net7.0\Aula30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\obj\Debug\net7.0\Aula30.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\obj\Debug\net7.0\Aula30.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\obj\Debug\net7.0\Aula30.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\obj\Debug\net7.0\Aula30.dll
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\obj\Debug\net7.0\refint\Aula30.dll
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\obj\Debug\net7.0\Aula30.pdb
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\obj\Debug\net7.0\Aula30.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso csharp udemy\Aula30\aula30\obj\Debug\net7.0\ref\Aula30.dll
